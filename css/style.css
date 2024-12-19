@@ -1,0 +1,9 @@
+.row{
+	background-color: red;
+}
+.col, .row{
+	border: 1px solid blue;
+}
+h2{
+	display: inline-block;
+}
